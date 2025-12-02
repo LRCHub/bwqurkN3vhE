@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "アイデア",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-02T15:29:46.328267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイデア",
+      "artist": "藤澤慶昌",
+      "has_synced": false,
+      "path": "select/01_アイデア_藤澤慶昌.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイデア",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/02_アイデア_星野源.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイデア",
+      "artist": "星野 源",
+      "has_synced": true,
+      "path": "select/03_アイデア_星野_源.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイデア",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/04_アイデア_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイデア  (NHK晨间剧《一半，蓝色》主题曲)",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/05_アイデア_(NHK晨间剧《一半,蓝色》主题曲)_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイデア",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/06_アイデア_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイデア - Idea",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/07_アイデア_-_Idea_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイデア�",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/08_アイデア�_星野源.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイデア",
+      "artist": "Hoshino Gen",
+      "has_synced": true,
+      "path": "select/09_アイデア_Hoshino_Gen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイデア",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_アイデア_星野源.txt"
+    }
+  ]
+}
